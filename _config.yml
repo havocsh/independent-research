@@ -22,7 +22,7 @@ title: Independent Research
 email: research@havoc.sh
 description: >
   Cybersecurity research authored by independent researchers, supported and published by ./HAVOC.
-baseurl: "/independent-research/" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://research.havoc.sh" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  havocsh
